@@ -57,7 +57,7 @@ The [NDIRestServer application](https://github.com/HyConSys/NDIRestServer) is us
 
 7. Click on button "Manual Drive" to use arrow keys to manually drive the DeepRacer. Hit "Esc" on keyboard to exit manual drive.
 
-Detailed demo procedure [here](https://github.com/HyConSys/CUBLab/edit/main/demo_produre.md).
+Detailed demo procedure [here](https://github.com/HyConSys/CUBLab/blob/main/demo_procedure.md).
 
 ## Video Demo
 
